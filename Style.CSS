@@ -1,9 +1,9 @@
 h1{
   margin-left: auto;
  margin-right: auto;
- color: red;
+ color: yellow;
  background-color: blue;
- border: 5px solid red;
+ border: 5px dashed red;
  padding: 50px;
  margin: 100px;
  width: 300px;
@@ -18,5 +18,9 @@ h2{
 }
 img{
   background-color: blue;
-  border:10px solid red;
+  border:10px dashed red;
+}
+p{
+  color: blue;
+  background-color: pink;
 }
